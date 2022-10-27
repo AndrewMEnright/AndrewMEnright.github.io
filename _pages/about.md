@@ -8,7 +8,7 @@ layout: page
 <div class="flex flex-column lg:flex-row align-items-center">
 	<div class="lg:text-justify lg:mr-12">
 		<p>
-			Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "assets/media/prof_pic.png" and put it in the img folder. 
+			Hi, I am Andrew. I am a CS student at UTD. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "assets/media/prof_pic.png" and put it in the img folder. 
 		<p>
 		</p>
 			Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Update "_data/socials.yml" to adjust what socials are shown.
