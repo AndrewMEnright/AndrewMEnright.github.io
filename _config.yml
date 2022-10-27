@@ -6,7 +6,7 @@
 # Global Data
 title: Andrew Enright
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  A portfolio of all of the things I have made.
   
 baseurl: /-AndrewMEnright-folio/ # the subpath of your site, e.g. /blog/
 url: https://andrewmenright.com/-folio-theme/
